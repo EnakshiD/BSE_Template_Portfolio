@@ -1,5 +1,5 @@
 # Biometric Pulse Sensor
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+A device whose basic function is to take the BPM of the person who puts their finger on the pulse sensor. The device tells you your BPM via the LCD display, as well as if your BPM is too high (during which a fan will turn on to cool you down) and if your BPM is just right (in which case an LED heart will light up and the LCD will tell you that you're a winner). Additionally, the device can connect to a website that keeps track of your BPM history.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -35,11 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+For my second milestone, I finished my first modification and made significant progress on the second modification. The idea for my first modification was to take advantage of the fact that the pulse sensor was consistently inaccurate and turn it into a game of sorts. If you were able to get the BPM below 100, LEDs on the breadboard (in the shape of a heart!) would light up and the LCD would display a message saying "You're a winner!". There were some issues with the LCD not clearing properly, but I was able to debug that, and the idea worked wonderfully. I then moved on to my second modification, in which I would have a fan run if the BPM was higher than 180. The fan works great, however the LCD has had clearing issues. So before I complete my final milestone, the code needs to be debugged so that the LCD functions properly. Additionally, my final milestone needs to include my 3rd modification, a website connected to my pulse sensor that tracks the history of my BPM.
 
 # First Milestone
 
