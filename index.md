@@ -44,9 +44,9 @@ For my second milestone, I finished my first modification and made significant p
 I completed my base project for my first milestone. I have an LCD display which shows my BP as well as my pulse sensor. Both of these components are attached to my breadboard through female to male & male to male wires. I coded my pulse sensor first by bringing in its library then producing a code that would allow the sensor to sense the amount of greenlight reflecting off of my blood, which then turns into a reading for my BPM. Then, I translated all of this data from the Serial Monitor to the LCD, utilizing a potentiometer in the process to make sure that my LCD text was actually visible. The major issue that I had during this milestone was trying to get the sensor to read my BPM correctly. It was producing values all the way up to 900 and rarely went under 100, so I messed around with the Threshold value in my code. Now, the values are still slightly wacky, but I am able to get consistent values on occasion. Once that was finished, I began to think of my modifications for the second milestone.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+<!---Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. -->
 
-![Schematic](/least-github-pages/assets/Bluestamp_Schematic.png)
+![Schematic](Bluestamp_Schematic.png)
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
