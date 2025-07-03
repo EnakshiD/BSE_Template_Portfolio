@@ -11,25 +11,25 @@ A device whose basic function is to take the BPM of the person who puts their fi
 
 <!--- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-![Headstone Image](Bluestamp_Schematic.png)
+![Headstone Image](photo.jpg)
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!---**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="912" height="514" src="https://www.youtube.com/embed/E7bETkHb-ok" title="Enakshi D Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
+<!---For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- What you hope to learn in the future after everything you've learned at BSE-->
 
-When I finished my second milestone, I was having trouble trying to debug both my LCD & my fan. Now, I have finished both debugging my 2nd milestone and also establishing my 3rd milestone. My 3rd milestone was initially supposed to be a website that could automatically receive data from my pulse sensor and store it in a table, however due to the fact that I would have to learn Javascript to do that, and I was running out of time, I created a website that could store data that is manually inputted via code. My biggest challenges during this experience were finding a proper threshold value that would allow the pulse sensor to function properly and establishing a proper connection with the ESP8266 Wifi Module. However, once those two things were resolved, I was very relieved. Overall, in this program I learned about 
+When I finished my second milestone, I was having trouble trying to debug both my LCD & my fan. Now, I have finished both debugging my 2nd milestone and also establishing my 3rd milestone. My 3rd milestone was initially supposed to be a website that could automatically receive data from my pulse sensor and store it in a table, however due to the fact that I would have to learn Javascript to do that, and I was running out of time, I created a website that could store data that is manually inputted via code. My biggest challenges during this experience were finding a proper threshold value that would allow the pulse sensor to function properly and establishing a proper connection with the ESP8266 Wifi Module. However, once those two things were resolved, I was very relieved. Overall, in this program I learned a lot about coding (I learned two different languages) and how to integrate that with electrical engineering, which was my goal going into the program. Now, I am more motivated to explore coding beyond this program (such as Javascript), and I hope to be involved in more hands-on, problem-solving projects like this in the future.
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!---**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
 
 <iframe width="912" height="514" src="https://www.youtube.com/embed/g_gqeUIlyaw" title="Enakshi D  Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
