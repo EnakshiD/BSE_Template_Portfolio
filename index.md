@@ -2,10 +2,8 @@
 A device whose basic function is to take the BPM of the person who puts their finger on the pulse sensor. The device tells you your BPM via the LCD display, as well as if your BPM is too high (during which a fan will turn on to cool you down) and if your BPM is just right (in which case an LED heart will light up and the LCD will tell you that you're a winner). Additionally, the device can connect to a website that keeps track of your BPM history.
 
 <!--- You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions: -->
-```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -49,7 +47,7 @@ I completed my base project for my first milestone. I have an LCD display which 
 ![Schematic](Bluestamp_Schematic.png)
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+<!---Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. -->
 
 The code for my Breadboard set-up:
 
@@ -190,19 +188,19 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
+<!---Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
+Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. -->
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Pulse Sensor Kit | Senses your BPM | $25 | <a href="https://tinyurl.com/56nbeznh"> Link </a> |
+| ESP8266 Wifi Module | Connects the Pulse Sensor to the internet | $16 | <a href="https://tinyurl.com/5cp7zzsb"> Link </a> |
+| Electronics Kit | Turns on when BPM is over 180 | $45 | <a href="https://tinyurl.com/248s83d2"> Link </a> |
 
-# Other Resources/Examples
+<!---# Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+To watch the BSE tutorial on how to create a portfolio, click here. -->
